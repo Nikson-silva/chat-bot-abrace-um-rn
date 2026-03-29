@@ -37,12 +37,12 @@ function createChatbot({ gateway, state, bloqueioService, atendimentoService }) 
         switch (texto) {
             case "1":
                 await atendimentoService.atenderDoacaoPix(gateway, remetente);
-                // await voltarAoMenuPrincipal(remetente);
+                await voltarAoMenuPrincipal(remetente);
                 return;
 
             case "2":
                 await atendimentoService.atenderDoacaoItens(gateway, remetente);
-                // await voltarAoMenuPrincipal(remetente);
+                await voltarAoMenuPrincipal(remetente);
                 return;
 
             case "3":

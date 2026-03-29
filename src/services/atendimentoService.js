@@ -150,7 +150,7 @@ function createAtendimentoService({ pixService, conversaLogService }) {
             "🙋‍♀️ Que bom que você quer ser um Parceiro(a) do Abrace um RN! 🤗\n\n" +
                 "Sua empresa pode fazer a diferença na vida de muitas gestantes e bebês.\n\n" +
                 "Para iniciar essa parceria, acesse o link abaixo e preencha o formulário:\n\n" +
-                "➡️ https://abrace-rn-frontend.vercel.app/parceiro\n\n" +
+                "➡️ https://docs.google.com/forms/d/e/1FAIpQLSfqqE5bNaM-nzbMvOVqi17Mxw6nWFZ6mOalipBVdA_dkrTLBg/viewform\n\n" +
                 "Depois disso, nossa equipe entrará em contato com você.\n\n" +
                 "Muito obrigado pelo interesse em apoiar essa causa! 💙🤝",
             2000,
